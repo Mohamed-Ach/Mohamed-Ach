@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mohmedd
+### Hi there 👋, I'm Mohamed
 
 #### I am a python programmer
 
